@@ -1,6 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-//Console.Write("Aadya loves");
-//Console.WriteLine(" Harish");
 //typecasting
 int a = 2;
 float b = (float)a;
